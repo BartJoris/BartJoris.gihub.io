@@ -21,7 +21,7 @@ darkmode: true
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: 🚀-bart-joris-8b669a61
+linkedin_username: bart-joris-8b669a61
 # twitter_username: Bart_Joris
 # github_username:  BartJoris
 # xing_username: jekyll
@@ -77,11 +77,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Red Hat
+        link: redhat.com
+        sub_title: Solution Architect
+        caption: September 2022 - Present
+        # quote: >
+        #   Providing engineers with a solid and easy to use infrastructure platform
+        description: | # this will include new lines to allow paragraphs
+            Providing engineers with a solid and easy to use infrastructure platform.
+      - layout: left
         title: Aaqua
         link: aaqua.live
         # link_text: boringcompany.com
         sub_title: Cloud engineer
-        caption: May 2021 - Present
+        caption: May 2021 - August 2022
         # quote: >
         #   Providing engineers with a solid and easy to use infrastructure platform
         description: | # this will include new lines to allow paragraphs
