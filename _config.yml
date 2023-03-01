@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Bart Joris
-title: Cloud engineer
+title: Solution Architect
 email: mail@bartjoris.be
 website: www.bartjoris.be
 
@@ -49,8 +49,7 @@ linkedin_username: bart-joris-8b669a61
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bart and I'm a <mark>Cloud engineer</mark> with more than 8 years of experience in designing and maintaining different IT solutions on different cloud platforms.
-  From more traditional virtualized environments to container based architectures.
+  Hi, my name's Bart, and my role as an <mark>Solution Architect</mark> involves working closely with customers to understand their business requirements and provide them with the best possible solution. I am responsible for analyzing their data, assessing their infrastructure, and collaborating with various stakeholders to ensure that the proposed solution is feasible, cost-effective, and meets the customer's expectations. My ultimate goal is to optimize their business processes, improve their bottom line, and enhance their overall customer experience.
 
 
 content:
@@ -84,7 +83,7 @@ content:
         # quote: >
         #   Providing engineers with a solid and easy to use infrastructure platform
         description: | # this will include new lines to allow paragraphs
-            Providing engineers with a solid and easy to use infrastructure platform.
+            As an Account Solution Architect, I am passionate about delivering effective solutions to help businesses achieve their goals. I enjoy the challenge of analyzing complex data and finding innovative ways to optimize business processes. Collaboration is at the heart of my work, and I pride myself on building strong relationships with customers and stakeholders to ensure that the solutions we provide are aligned with their needs. The fast-paced nature of the role keeps me on my toes, and I thrive in an environment where I can use my technical and analytical skills to make a real difference to our customers' businesses.
       - layout: left
         title: Aaqua
         link: aaqua.live
@@ -94,7 +93,7 @@ content:
         # quote: >
         #   Providing engineers with a solid and easy to use infrastructure platform
         description: | # this will include new lines to allow paragraphs
-            Providing engineers with a solid and easy to use infrastructure platform.
+            Providing engineers with a solid and easy-to-use infrastructure platform that supports business objectives. Their primary role involves designing, building, and maintaining cloud-based infrastructure solutions that are scalable and secure. This involves creating systems that can handle high traffic volumes and optimizing cloud-based applications for maximum efficiency. 
       - layout: left
         title: Nubera
         link: nubera.eu
